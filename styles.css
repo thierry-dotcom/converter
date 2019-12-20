@@ -1,0 +1,29 @@
+.swap {
+  cursor: pointer;
+}
+
+.converter {
+  position: absolute;
+  background: url(./Money.jpg) no-repeat center center fixed;
+  /*zit in src*/
+  background-size: cover;
+  opacity: 90%;
+  height: 100vh;
+  width: 100vw
+}
+
+.card {
+  background-color: lightseagreen;
+  border: groove 3px white;
+  box-shadow: 4px 4px 4px sienna;
+}
+
+
+
+#currency {
+  border: solid 1px sienna
+}
+
+#amount {
+  border: solid 1px sienna
+}
